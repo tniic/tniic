@@ -814,7 +814,32 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #call-to-action .cta-btn:hover {
   background: #fa6262;
-  border: 2px solid #fa6262;
+  border: 2px solid #ffffff;
+}
+
+#conceptnote {
+  padding: 60px 0;
+}
+
+#conceptnote .cta-button {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 3px solid #fa6262;
+  color: #fa6262;
+}
+
+#conceptnote .cta-button:hover {
+  background: #fa6262;
+  color: #fff;
+  border: 3px solid #ffffff;
 }
 
 /* Call To Action Section
