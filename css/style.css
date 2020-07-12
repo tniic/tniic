@@ -817,11 +817,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid #ffffff;
 }
 
-#conceptnote {
+#program {
   padding: 60px 0;
 }
 
-#conceptnote .cta-button {
+#program .cta-button {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
@@ -836,7 +836,56 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fa6262;
 }
 
-#conceptnote .cta-button:hover {
+#ttt .cta-button:hover {
+  background: #fa6262;
+  color: #fff;
+  border: 3px solid #ffffff;
+}
+
+#ttt .cta-button {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 3px solid #fa6262;
+  color: #fa6262;
+}
+
+#ttt .cta-button:hover {
+  background: #fa6262;
+  color: #fff;
+  border: 3px solid #ffffff;
+}
+
+#stage2 .cta-button:hover {
+  background: #fa6262;
+  color: #fff;
+  border: 3px solid #ffffff;
+}
+
+#stage2 .cta-button {
+  width: 160px;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 3px solid #fa6262;
+  color: #fa6262;
+}
+
+#stage2 .cta-button:hover {
   background: #fa6262;
   color: #fff;
   border: 3px solid #ffffff;
